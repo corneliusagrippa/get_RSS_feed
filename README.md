@@ -1,6 +1,6 @@
 Currently the program gets RSS feeds from :
 
-  RSC - Dalton Transactions\n
+  RSC - Dalton Transactions
   Coordination Chemistry Reviews
   European Journal of Inorganic Chemistry
   Metallomics
